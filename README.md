@@ -11,3 +11,6 @@ To get started:
 Rename **config/config.sample.php** in **config/prod.php** and edit database connection info
 
 
+## Credits
+
+![ALittleMarket](http://assets_orig.alittlemarket.com/image/header/logo.png)
