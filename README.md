@@ -1,4 +1,4 @@
-* Incubart Silex skeleton
+# Incubart Silex skeleton
 
 As [many other](https://github.com/search?q=Silex+skeleton&nwo=alittlemarket%2Fsilex-skeleton&search_target=global&ref=cmdform) this project try to ease a [**Silex**](http://silex.sensiolabs.org/) bootstrap for a fast project start.
 
